@@ -1,4 +1,4 @@
-# Visualizing models with PyTorch
+# Deep Learning Pipeline with PyTorch
 This repository contains Python scripts that demonstrate how to build neural networks using PyTorch. It begins with the fundamental syntax and workflow necessary for constructing models and gradually progresses to practical implementations.
 
 Explore the complete PyTorch workflow for building and training models:
