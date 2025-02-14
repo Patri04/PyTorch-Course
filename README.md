@@ -1,10 +1,13 @@
 # PyTorch-Course
 This repository contains Python scripts that demonstrate how to build neural networks using PyTorch. It begins with the fundamental syntax and workflow necessary for constructing models and gradually progresses to practical implementations.
 
-You will find hands-on examples covering:
-- Regression: Learn how to model continuous data.
-- Classification: Explore techniques to categorize data into distinct classes.
-- Computer Vision: Dive into building and training models for image-related tasks.
+You will get familiar with PyTorch workflow for building and training a model:
+- data manipulation
+- model building
+- model training and testing
+- model evaluation
+- model improving
+- model saving and loading
 
 Please note that these files contain minimal theoretical explanations. I highly recommend studying the fundamentals of neural networks and the underlying mathematical concepts using additional resources. Below are some useful links to help you dive deeper into neural network theory:
 1. "Neural Networks" by 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
